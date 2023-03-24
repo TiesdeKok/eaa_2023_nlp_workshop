@@ -1,0 +1,22 @@
+name: nlp_demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - requests
+  - xlrd
+  - openpyxl
+  - textblob
+  - seaborn 
+  - spacy-model-en_core_web_sm
+  - spacy-model-en_core_web_lg
+  - pip:
+    - tqdm
+    - scikit-learn
+    - pyldavis
+    - unidecode
