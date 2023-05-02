@@ -12,7 +12,7 @@ To get started with the demonstration portion, click the button below!
 
 https://github.com/TiesdeKok/eaa_2023_nlp_workshop/blob/main/eaa_nlp_session_1.pdf
 
-https://github.com/TiesdeKok/eaa_2023_nlp_workshop/blob/main/eaa_nlp_session_2.pdf 
+https://github.com/TiesdeKok/eaa_2023_nlp_workshop/blob/main/eaa_2023_session_2.pdf 
 
 ## Links:
 
