@@ -20,6 +20,7 @@ dependencies:
   - spacy-model-en_core_web_lg
   - gensim
   - transformers
+  - rapidfuzz
   - pip:
     - tqdm
     - scikit-learn
@@ -39,4 +40,6 @@ dependencies:
     - 'spacy[transformers]'
     - polyfuzz
     - 'polyfuzz[fast]'
+    - tiktoken
+    - openai
 
