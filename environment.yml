@@ -1,10 +1,13 @@
 name: nlp_demo
 channels:
   - conda-forge
+  - huggingface
+  - pytorch
 dependencies:
   - python=3.10
   - pip
   - jupyter
+  - jupyterlab
   - matplotlib
   - numpy
   - pandas
@@ -15,8 +18,25 @@ dependencies:
   - seaborn 
   - spacy-model-en_core_web_sm
   - spacy-model-en_core_web_lg
+  - gensim
+  - transformers
   - pip:
     - tqdm
     - scikit-learn
     - pyldavis
     - unidecode
+    - umap-learn
+    - flair
+    - bertopic
+    - 'bertopic[flair]'
+    - 'bertopic[gensim]'
+    - 'bertopic[spacy]'
+    - keybert
+    - 'keybert[spacy]'
+    - 'keybert[gensim]'
+    - 'keybert[flair]'
+    - sentence-transformers
+    - 'spacy[transformers]'
+    - polyfuzz
+    - 'polyfuzz[fast]'
+
