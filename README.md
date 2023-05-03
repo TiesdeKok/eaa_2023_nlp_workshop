@@ -10,7 +10,7 @@ To get started with the demonstration portion, click the button below!
 
 ## Google Colab link:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TiesdeKok/eaa_2023_nlp_workshop]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TiesdeKok/eaa_2023_nlp_workshop)
 
 ## The slides for the sessions are available here:
 
