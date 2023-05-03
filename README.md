@@ -8,6 +8,10 @@ To get started with the demonstration portion, click the button below!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TiesdeKok/eaa_2023_nlp_workshop/HEAD)
 
+## Google Colab link:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TiesdeKok/eaa_2023_nlp_workshop]
+
 ## The slides for the sessions are available here:
 
 https://github.com/TiesdeKok/eaa_2023_nlp_workshop/blob/main/eaa_nlp_session_1.pdf
